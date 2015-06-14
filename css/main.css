@@ -1,6 +1,6 @@
 * {
-   border: 1px solid red !important;
-   /*border: display:none;*/
+  /* border: 1px solid red !important;*/
+   border: display:none;
 }
 
 * {
@@ -16,6 +16,15 @@ font-family: 'Lato', sans-serif;
     margin: 0 auto;
     max-width: 1200px;
     width: 100%;
+}
+
+
+h2 {
+margin-top: 26px;
+padding-top: 2px;
+}
+h3 {
+margin-top: 0px;
 }
 
 .row {
