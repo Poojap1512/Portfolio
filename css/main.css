@@ -1,5 +1,6 @@
 * {
-    border: 1px solid red !important;
+   border: 1px solid red !important;
+   /*border: display:none;*/
 }
 
 * {
@@ -24,13 +25,24 @@ font-family: 'Lato', sans-serif;
     flex-wrap: wrap;
 }
 
-.row-6 {
+.row-61 {
 
     width: 100%;
     display: flex;
  flex-wrap: wrap;
-}
+     padding-left: 687px;
+     height:63px;
 
+}
+.row-62 {
+
+    width: 100%;
+    display: flex;
+ flex-wrap: wrap;
+     padding-left: 820px;
+     height:55px;
+
+}
 
 
 .col-1 {
@@ -39,6 +51,9 @@ font-family: 'Lato', sans-serif;
 
 .col-2 {
     width: 16.66%;
+    padding-left: 40px;
+    padding-top: 15px;
+
 }
 
 .col-3 {
