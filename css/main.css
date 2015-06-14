@@ -71,6 +71,10 @@ margin-top: 0px;
 
 .col-4 {
     width: 33.33%;
+    padding-left: 45px;
+}
+.col-41 {
+    width: 33.33%;
 }
 
 .col-5 {
