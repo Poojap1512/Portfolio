@@ -21,7 +21,17 @@ font-family: 'Lato', sans-serif;
     width: 100%;
     margin-bottom: 20px;
     display: flex;
+    flex-wrap: wrap;
 }
+
+.row-6 {
+
+    width: 100%;
+    display: flex;
+ flex-wrap: wrap;
+}
+
+
 
 .col-1 {
     width: 8.33%;
